@@ -40,6 +40,7 @@ p {
     font-size: 2.5em;
     font-style: italic;
     font-weight: bolder;
+    margin: 25px 0;
 }
 
 .pages a {
@@ -57,9 +58,7 @@ p {
 .links a {
     color: #5f9ea0;
     text-decoration: none;
-    font-weight: bold;
     transition: color 0.3s;
-    padding: 0 10px;
 }
 
 .links a:hover {
